@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\all_apps_cling.xml",
+        "source": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\layout-land\\all_apps_cling.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\search_bar.xml",
+        "source": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\layout-land\\search_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\workspace_cling.xml",
+        "source": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\layout-land\\workspace_cling.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\first_run_cling.xml",
+        "source": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\layout-land\\first_run_cling.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\launcher.xml",
+        "source": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\layout-land\\launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\folder_cling.xml",
+        "source": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\layout-land\\folder_cling.xml"
+    }
+]

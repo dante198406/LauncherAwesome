@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\LauncherAwesome\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\LauncherAwesome\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_0bb5cc84b42f0b11b28f72aed381c6b6874cdb58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\LauncherAwesome\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\LauncherAwesome\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_610f56a613c95cd0b3d56a2682e2563dddf95622.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\LauncherAwesome\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\LauncherAwesome\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_fe6b64d6003710ecc577e6a7d067bafc7777f283.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\LauncherAwesome\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\LauncherAwesome\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_d6f219626023e20bb4c870fb72fee2c141c675ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\LauncherAwesome\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\LauncherAwesome\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_e0583a623671e6e49246de723d51e94f2144903e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\LauncherAwesome\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\LauncherAwesome\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_214cee757b6f16dc9b9e67dd22ae8dbace713d66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\LauncherAwesome\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\LauncherAwesome\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_30d3315ce5433eabcbb88d012a28cfd605b3bbc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\LauncherAwesome\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\LauncherAwesome\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_d9b69659daf91d179d13b66bb27285f11b49a6c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\LauncherAwesome\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\LauncherAwesome\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_965b5d1f8eef4e9a8a345ee6733209042bfd3d11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\LauncherAwesome\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\LauncherAwesome\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_c17fec7cc3b79f387132c5259237bd1dc69a5fb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\LauncherAwesome\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\LauncherAwesome\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_4f23e02472147c7d593b86d8db054f9096507e09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhangzhaolei.EROBBING\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\zhangzhaolei.EROBBING\AndroidStudioProjects\LauncherAwesome\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_f660ee19d676489ed000cfcef0aed7107110fae1.jar" />
+    </item>
+
+</items>

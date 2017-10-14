@@ -1,0 +1,159 @@
+[
+    {
+        "outputFile": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1278,
+                        "endColumn": 57,
+                        "endOffset": 1331
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 56,
+                    "endOffset": 165
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1336,
+                        "endColumn": 56,
+                        "endOffset": 1388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 170,
+                    "endColumn": 44,
+                    "endOffset": 210
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1167,
+                        "endColumn": 44,
+                        "endOffset": 1207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 215,
+                    "endColumn": 53,
+                    "endOffset": 264
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 990,
+                        "endColumn": 53,
+                        "endOffset": 1039
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 269,
+                    "endColumn": 62,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 844,
+                        "endColumn": 62,
+                        "endOffset": 902
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 332,
+                    "endColumn": 62,
+                    "endOffset": 390
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 907,
+                        "endColumn": 62,
+                        "endOffset": 965
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 395,
+                    "endColumn": 66,
+                    "endOffset": 457
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 710,
+                        "endColumn": 66,
+                        "endOffset": 772
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 462,
+                    "endColumn": 66,
+                    "endOffset": 524
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 777,
+                        "endColumn": 66,
+                        "endOffset": 839
+                    }
+                }
+            }
+        ]
+    }
+]

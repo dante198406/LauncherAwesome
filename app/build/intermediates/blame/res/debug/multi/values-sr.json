@@ -1,0 +1,1871 @@
+[
+    {
+        "outputFile": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sr\\values-sr.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 6,
+                    "endColumn": 12,
+                    "endOffset": 398
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 2,
+                        "startOffset": 1203,
+                        "endLine": 30,
+                        "endColumn": 12,
+                        "endOffset": 1496
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 403,
+                    "endColumn": 98,
+                    "endOffset": 497
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 5630,
+                        "endColumn": 98,
+                        "endOffset": 5724
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 502,
+                    "endColumn": 92,
+                    "endOffset": 590
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 5729,
+                        "endColumn": 92,
+                        "endOffset": 5817
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 595,
+                    "endColumn": 94,
+                    "endOffset": 685
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 5425,
+                        "endColumn": 94,
+                        "endOffset": 5515
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 690,
+                    "endColumn": 109,
+                    "endOffset": 795
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 5520,
+                        "endColumn": 109,
+                        "endOffset": 5625
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 800,
+                    "endColumn": 105,
+                    "endOffset": 901
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2073,
+                        "endColumn": 105,
+                        "endOffset": 2174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 906,
+                    "endColumn": 90,
+                    "endOffset": 992
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 4764,
+                        "endColumn": 90,
+                        "endOffset": 4850
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 997,
+                    "endColumn": 150,
+                    "endOffset": 1143
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 4,
+                        "startOffset": 9543,
+                        "endColumn": 150,
+                        "endOffset": 9689
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1148,
+                    "endColumn": 106,
+                    "endOffset": 1250
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 4,
+                        "startOffset": 9436,
+                        "endColumn": 106,
+                        "endOffset": 9538
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1255,
+                    "endColumn": 91,
+                    "endOffset": 1342
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 4855,
+                        "endColumn": 91,
+                        "endOffset": 4942
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1347,
+                    "endColumn": 119,
+                    "endOffset": 1462
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1610,
+                        "endColumn": 123,
+                        "endOffset": 1729
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1467,
+                    "endColumn": 86,
+                    "endOffset": 1549
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 788,
+                        "endColumn": 86,
+                        "endOffset": 870
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1554,
+                    "endColumn": 124,
+                    "endOffset": 1674
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 4,
+                        "startOffset": 8386,
+                        "endColumn": 124,
+                        "endOffset": 8506
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1679,
+                    "endColumn": 124,
+                    "endOffset": 1799
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 4,
+                        "startOffset": 8511,
+                        "endColumn": 124,
+                        "endOffset": 8631
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1804,
+                    "endColumn": 104,
+                    "endOffset": 1904
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 6139,
+                        "endColumn": 104,
+                        "endOffset": 6239
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1909,
+                    "endColumn": 109,
+                    "endOffset": 2014
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 6347,
+                        "endColumn": 109,
+                        "endOffset": 6452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2019,
+                    "endColumn": 95,
+                    "endOffset": 2110
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 6043,
+                        "endColumn": 95,
+                        "endOffset": 6134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2115,
+                    "endColumn": 102,
+                    "endOffset": 2213
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 5940,
+                        "endColumn": 102,
+                        "endOffset": 6038
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2218,
+                    "endColumn": 107,
+                    "endOffset": 2321
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 6457,
+                        "endColumn": 107,
+                        "endOffset": 6560
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2326,
+                    "endColumn": 102,
+                    "endOffset": 2424
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 6244,
+                        "endColumn": 102,
+                        "endOffset": 6342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2429,
+                    "endColumn": 78,
+                    "endOffset": 2503
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 3256,
+                        "endColumn": 78,
+                        "endOffset": 3330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2508,
+                    "endColumn": 79,
+                    "endOffset": 2583
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 4,
+                        "startOffset": 9988,
+                        "endColumn": 79,
+                        "endOffset": 10063
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2588,
+                    "endColumn": 122,
+                    "endOffset": 2706
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 3687,
+                        "endColumn": 122,
+                        "endOffset": 3805
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2711,
+                    "endColumn": 90,
+                    "endOffset": 2797
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1982,
+                        "endColumn": 90,
+                        "endOffset": 2068
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2802,
+                    "endColumn": 84,
+                    "endOffset": 2882
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 4,
+                        "startOffset": 10927,
+                        "endColumn": 92,
+                        "endOffset": 11015
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2887,
+                    "endColumn": 85,
+                    "endOffset": 2968
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 119,
+                        "startColumn": 4,
+                        "startOffset": 11107,
+                        "endColumn": 93,
+                        "endOffset": 11196
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2973,
+                    "endColumn": 79,
+                    "endOffset": 3048
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 4,
+                        "startOffset": 10839,
+                        "endColumn": 87,
+                        "endOffset": 10922
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 3053,
+                    "endColumn": 78,
+                    "endOffset": 3127
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 118,
+                        "startColumn": 4,
+                        "startOffset": 11020,
+                        "endColumn": 86,
+                        "endOffset": 11102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3132,
+                    "endColumn": 102,
+                    "endOffset": 3230
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 8173,
+                        "endColumn": 102,
+                        "endOffset": 8271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 3235,
+                    "endColumn": 84,
+                    "endOffset": 3315
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 5138,
+                        "endColumn": 84,
+                        "endOffset": 5218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3320,
+                    "endColumn": 100,
+                    "endOffset": 3416
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 5223,
+                        "endColumn": 100,
+                        "endOffset": 5319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3421,
+                    "endColumn": 97,
+                    "endOffset": 3514
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 5040,
+                        "endColumn": 97,
+                        "endOffset": 5133
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3519,
+                    "endColumn": 117,
+                    "endOffset": 3632
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 5822,
+                        "endColumn": 117,
+                        "endOffset": 5935
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 3637,
+                    "endColumn": 92,
+                    "endOffset": 3725
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 4947,
+                        "endColumn": 92,
+                        "endOffset": 5035
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3730,
+                    "endColumn": 82,
+                    "endOffset": 3808
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 7884,
+                        "endColumn": 82,
+                        "endOffset": 7962
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 3813,
+                    "endColumn": 131,
+                    "endOffset": 3940
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2726,
+                        "endColumn": 131,
+                        "endOffset": 2853
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 3945,
+                    "endColumn": 114,
+                    "endOffset": 4055
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 2858,
+                        "endColumn": 114,
+                        "endOffset": 2968
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 4060,
+                    "endColumn": 144,
+                    "endOffset": 4200
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 4,
+                        "startOffset": 9023,
+                        "endColumn": 144,
+                        "endOffset": 9163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 4205,
+                    "endColumn": 84,
+                    "endOffset": 4285
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 4,
+                        "startOffset": 8841,
+                        "endColumn": 92,
+                        "endOffset": 8929
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 4290,
+                    "endColumn": 111,
+                    "endOffset": 4397
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 4,
+                        "startOffset": 8729,
+                        "endColumn": 111,
+                        "endOffset": 8836
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 4402,
+                    "endColumn": 80,
+                    "endOffset": 4478
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 4,
+                        "startOffset": 8934,
+                        "endColumn": 88,
+                        "endOffset": 9018
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 4483,
+                    "endColumn": 92,
+                    "endOffset": 4571
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 8636,
+                        "endColumn": 92,
+                        "endOffset": 8724
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 4576,
+                    "endColumn": 191,
+                    "endOffset": 4763
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 4,
+                        "startOffset": 9796,
+                        "endColumn": 191,
+                        "endOffset": 9983
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 4768,
+                    "endColumn": 101,
+                    "endOffset": 4865
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 4,
+                        "startOffset": 9694,
+                        "endColumn": 101,
+                        "endOffset": 9791
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 4870,
+                    "endColumn": 96,
+                    "endOffset": 4962
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 4,
+                        "startOffset": 10480,
+                        "endColumn": 96,
+                        "endOffset": 10572
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 4967,
+                    "endColumn": 99,
+                    "endOffset": 5062
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 7967,
+                        "endColumn": 99,
+                        "endOffset": 8062
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 5067,
+                    "endColumn": 60,
+                    "endOffset": 5123
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1040,
+                        "endColumn": 68,
+                        "endOffset": 1104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 5128,
+                    "endColumn": 120,
+                    "endOffset": 5244
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 4,
+                        "startOffset": 10714,
+                        "endColumn": 124,
+                        "endOffset": 10834
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 5249,
+                    "endColumn": 162,
+                    "endOffset": 5407
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 4,
+                        "startOffset": 10068,
+                        "endColumn": 170,
+                        "endOffset": 10234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 5412,
+                    "endColumn": 132,
+                    "endOffset": 5540
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 4,
+                        "startOffset": 10577,
+                        "endColumn": 136,
+                        "endOffset": 10709
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 5545,
+                    "endColumn": 119,
+                    "endOffset": 5660
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 4,
+                        "startOffset": 10239,
+                        "endColumn": 119,
+                        "endOffset": 10354
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 5665,
+                    "endColumn": 120,
+                    "endOffset": 5781
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 4,
+                        "startOffset": 10359,
+                        "endColumn": 120,
+                        "endOffset": 10475
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 5786,
+                    "endColumn": 104,
+                    "endOffset": 5886
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 4,
+                        "startOffset": 7638,
+                        "endColumn": 104,
+                        "endOffset": 7738
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 5891,
+                    "endColumn": 87,
+                    "endOffset": 5974
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 3438,
+                        "endColumn": 87,
+                        "endOffset": 3521
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 5979,
+                    "endColumn": 81,
+                    "endOffset": 6056
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 3526,
+                        "endColumn": 81,
+                        "endOffset": 3603
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 6061,
+                    "endColumn": 78,
+                    "endOffset": 6135
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 3608,
+                        "endColumn": 78,
+                        "endOffset": 3682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 6140,
+                    "endColumn": 70,
+                    "endOffset": 6206
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 875,
+                        "endColumn": 70,
+                        "endOffset": 941
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 6211,
+                    "endColumn": 119,
+                    "endOffset": 6326
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 3925,
+                        "endColumn": 119,
+                        "endOffset": 4040
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 6331,
+                    "endColumn": 100,
+                    "endOffset": 6427
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 5324,
+                        "endColumn": 100,
+                        "endOffset": 5420
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 6432,
+                    "endColumn": 124,
+                    "endOffset": 6552
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 4045,
+                        "endColumn": 124,
+                        "endOffset": 4165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 6557,
+                    "endColumn": 128,
+                    "endOffset": 6681
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 2437,
+                        "endColumn": 128,
+                        "endOffset": 2561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 6686,
+                    "endColumn": 72,
+                    "endOffset": 6754
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2566,
+                        "endColumn": 72,
+                        "endOffset": 2634
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 6759,
+                    "endColumn": 102,
+                    "endOffset": 6857
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 3335,
+                        "endColumn": 102,
+                        "endOffset": 3433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 6862,
+                    "endColumn": 114,
+                    "endOffset": 6972
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 3810,
+                        "endColumn": 114,
+                        "endOffset": 3920
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 6977,
+                    "endColumn": 149,
+                    "endOffset": 7122
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 6668,
+                        "endColumn": 149,
+                        "endOffset": 6813
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 7127,
+                    "endColumn": 150,
+                    "endOffset": 7273
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 7204,
+                        "endColumn": 150,
+                        "endOffset": 7350
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 7278,
+                    "endColumn": 152,
+                    "endOffset": 7426
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 4,
+                        "startOffset": 6924,
+                        "endColumn": 152,
+                        "endOffset": 7072
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 7431,
+                    "endColumn": 151,
+                    "endOffset": 7578
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 4,
+                        "startOffset": 7486,
+                        "endColumn": 151,
+                        "endOffset": 7633
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 7583,
+                    "endColumn": 102,
+                    "endOffset": 7681
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 6565,
+                        "endColumn": 102,
+                        "endOffset": 6663
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 7686,
+                    "endColumn": 126,
+                    "endOffset": 7808
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 7077,
+                        "endColumn": 126,
+                        "endOffset": 7199
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 7813,
+                    "endColumn": 105,
+                    "endOffset": 7914
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 6818,
+                        "endColumn": 105,
+                        "endOffset": 6919
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 7919,
+                    "endColumn": 130,
+                    "endOffset": 8045
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 7355,
+                        "endColumn": 130,
+                        "endOffset": 7481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 8050,
+                    "endColumn": 82,
+                    "endOffset": 8128
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1817,
+                        "endColumn": 82,
+                        "endOffset": 1895
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 8133,
+                    "endColumn": 81,
+                    "endOffset": 8210
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1900,
+                        "endColumn": 81,
+                        "endOffset": 1977
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 8215,
+                    "endColumn": 79,
+                    "endOffset": 8290
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 3176,
+                        "endColumn": 79,
+                        "endOffset": 3251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 8295,
+                    "endColumn": 97,
+                    "endOffset": 8388
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2973,
+                        "endColumn": 97,
+                        "endOffset": 3066
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 8393,
+                    "endColumn": 104,
+                    "endOffset": 8493
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 3071,
+                        "endColumn": 104,
+                        "endOffset": 3171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 8498,
+                    "endColumn": 89,
+                    "endOffset": 8583
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 122,
+                        "startColumn": 4,
+                        "startOffset": 11374,
+                        "endColumn": 89,
+                        "endOffset": 11459
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 8588,
+                    "endColumn": 127,
+                    "endOffset": 8711
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 4438,
+                        "endColumn": 131,
+                        "endOffset": 4565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 8716,
+                    "endColumn": 129,
+                    "endOffset": 8841
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 4170,
+                        "endColumn": 133,
+                        "endOffset": 4299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 8846,
+                    "endColumn": 129,
+                    "endOffset": 8971
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 4304,
+                        "endColumn": 133,
+                        "endOffset": 4433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 8976,
+                    "endColumn": 99,
+                    "endOffset": 9071
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 4664,
+                        "endColumn": 99,
+                        "endOffset": 4759
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 9076,
+                    "endColumn": 93,
+                    "endOffset": 9165
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 4570,
+                        "endColumn": 93,
+                        "endOffset": 4659
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 9170,
+                    "endColumn": 96,
+                    "endOffset": 9262
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2340,
+                        "endColumn": 96,
+                        "endOffset": 2432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 9267,
+                    "endColumn": 93,
+                    "endOffset": 9356
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 946,
+                        "endColumn": 93,
+                        "endOffset": 1035
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 9361,
+                    "endColumn": 140,
+                    "endOffset": 9497
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 7743,
+                        "endColumn": 140,
+                        "endOffset": 7879
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 9502,
+                    "endColumn": 108,
+                    "endOffset": 9606
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1501,
+                        "endColumn": 108,
+                        "endOffset": 1605
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 9611,
+                    "endColumn": 88,
+                    "endOffset": 9695
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 4,
+                        "startOffset": 11285,
+                        "endColumn": 88,
+                        "endOffset": 11369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 9700,
+                    "endColumn": 82,
+                    "endOffset": 9778
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1734,
+                        "endColumn": 82,
+                        "endOffset": 1812
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 9783,
+                    "endColumn": 95,
+                    "endOffset": 9874
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1109,
+                        "endColumn": 95,
+                        "endOffset": 1200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 9879,
+                    "endColumn": 77,
+                    "endOffset": 9952
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2262,
+                        "endColumn": 77,
+                        "endOffset": 2335
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 9957,
+                    "endColumn": 83,
+                    "endOffset": 10036
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 4,
+                        "startOffset": 11201,
+                        "endColumn": 83,
+                        "endOffset": 11280
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 10041,
+                    "endColumn": 86,
+                    "endOffset": 10123
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2639,
+                        "endColumn": 86,
+                        "endOffset": 2721
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 10128,
+                    "endColumn": 82,
+                    "endOffset": 10206
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2179,
+                        "endColumn": 82,
+                        "endOffset": 2257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 10211,
+                    "endColumn": 167,
+                    "endOffset": 10374
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 9268,
+                        "endColumn": 167,
+                        "endOffset": 9431
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 10379,
+                    "endColumn": 99,
+                    "endOffset": 10474
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 4,
+                        "startOffset": 9168,
+                        "endColumn": 99,
+                        "endOffset": 9263
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 10479,
+                    "endColumn": 105,
+                    "endOffset": 10580
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 8067,
+                        "endColumn": 105,
+                        "endOffset": 8168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 10585,
+                    "endColumn": 109,
+                    "endOffset": 10690
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sr\\strings.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 4,
+                        "startOffset": 8276,
+                        "endColumn": 109,
+                        "endOffset": 8381
+                    }
+                }
+            }
+        ]
+    }
+]

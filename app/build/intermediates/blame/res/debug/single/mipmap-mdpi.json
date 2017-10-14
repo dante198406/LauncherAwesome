@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_home.png",
+        "source": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_home.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_application.png",
+        "source": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_application.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_wallpaper.png",
+        "source": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_wallpaper.png"
+    }
+]

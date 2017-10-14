@@ -1,0 +1,121 @@
+[
+    {
+        "outputFile": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-land-v13\\values-sw600dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 64,
+                    "endOffset": 115
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 775,
+                        "endColumn": 64,
+                        "endOffset": 835
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 120,
+                    "endColumn": 69,
+                    "endOffset": 185
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 907,
+                        "endColumn": 69,
+                        "endOffset": 972
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 190,
+                    "endColumn": 66,
+                    "endOffset": 252
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 840,
+                        "endColumn": 66,
+                        "endOffset": 902
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 257,
+                    "endColumn": 64,
+                    "endOffset": 317
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 710,
+                        "endColumn": 64,
+                        "endOffset": 770
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 322,
+                    "endColumn": 65,
+                    "endOffset": 383
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1055,
+                        "endColumn": 65,
+                        "endOffset": 1116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 388,
+                    "endColumn": 63,
+                    "endOffset": 447
+                },
+                "from": {
+                    "file": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\LauncherAwesome\\app\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 991,
+                        "endColumn": 63,
+                        "endOffset": 1050
+                    }
+                }
+            }
+        ]
+    }
+]
